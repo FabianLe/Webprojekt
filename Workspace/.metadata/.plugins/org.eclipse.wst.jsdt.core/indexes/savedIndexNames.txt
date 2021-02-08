@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Elena\OneDrive\Dokumente\GitHub\Webprojekt\Workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3168241035.index
+735998721.index
+1368053190.index
+1979497229.index
+2567800105.index
